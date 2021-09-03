@@ -1,24 +1,30 @@
-### Hi there 👋, my name is Sandira
-#### I am  not a developer, just ordinary people.
-![I am  not a developer, just ordinary people.](https://i.pinimg.com/originals/7e/d5/de/7ed5debe3bafdd92058f422986d2223f.gif )
+![](https://i.pinimg.com/originals/7e/d5/de/7ed5debe3bafdd92058f422986d2223f.gif )
 
-I like programing , Listening to Music and playing Games.
+<h1 align="center">Hi 👋, I'm Sandira</h1>
+<h3 align="center">I like programing , Listening to Music and playing Games.</h3>
 
-Skills: C++ / HTML / CSS
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=axolotlextnd&label=Profile%20views&color=0e75b6&style=flat" alt="axolotlextnd" /> </p>
 
-- 🔭 I’m currently working on <a href="https://github.com/axolotlextnd/Nanashi-Mumei">Nanashi Mumei BOT<a/> 
-- 🌱 I’m currently learning [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=axolotlextnd" alt="axolotlextnd" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/sannandira" target="blank"><img src="https://img.shields.io/twitter/follow/sannandira?logo=twitter&style=for-the-badge" alt="sannandira" /></a> </p>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/axolotlextnd)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/bukansandiraa/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/sannandira)  
+- 🔭 I’m currently working on [Whatsapp Bot](https://github.com/axolotlextnd/Nanashi-Mumei)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axolotlextnd)](https://github.com/anuraghazra/github-readme-stats)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/sannandira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sannandira" height="30" width="40" /></a>
+<a href="https://fb.com/ssandiraa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ssandiraa" height="30" width="40" /></a>
+<a href="https://instagram.com/bukansandiraa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bukansandiraa" height="30" width="40" /></a>
+</p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=axolotlextnd&show_icons=true)  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=axolotlextnd)  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=axolotlextnd&show_icons=true&theme=dracula&locale=en&layout=compact" alt="axolotlextnd" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=axolotlextnd&show_icons=true&locale=en" alt="axolotlextnd" /></p>
 
 ![GitHub metrics](https://metrics.lecoq.io/axolotlextnd)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=axolotlextnd)  
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=axolotlextnd&" alt="axolotlextnd" /></p>
