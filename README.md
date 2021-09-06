@@ -9,7 +9,6 @@
 
 <p align="left"> <a href="https://twitter.com/sannandira" target="blank"><img src="https://img.shields.io/twitter/follow/sannandira?logo=twitter&style=for-the-badge" alt="sannandira" /></a> </p>
 
-- 🔭 I’m currently working on [Whatsapp Bot](https://github.com/axolotlextnd/Nanashi-Mumei)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
