@@ -12,9 +12,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sannandira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sannandira" height="30" width="40" /></a>
+<a href="https://twitter.com/Axolotlextnd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sannandira" height="30" width="40" /></a>
 <a href="https://fb.com/ssandiraa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ssandiraa" height="30" width="40" /></a>
-<a href="https://instagram.com/bukansandiraa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bukansandiraa" height="30" width="40" /></a>
+<a href="https://instagram.com/axolotlextnd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bukansandiraa" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
