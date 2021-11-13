@@ -11,6 +11,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=axolotlextnd&show_icons=true&locale=en" alt="axolotlextnd" /></p>
 
-![GitHub metrics](https://metrics.lecoq.io/axolotlextnd)  
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=axolotlextnd&" alt="axolotlextnd" /></p>
