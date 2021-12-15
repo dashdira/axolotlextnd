@@ -1,7 +1,7 @@
 ![](https://i.pinimg.com/originals/7e/d5/de/7ed5debe3bafdd92058f422986d2223f.gif )
 
 <h1 align="center">Hi 👋, I'm Sandira</h1>
-<h3 align="center">I like programing , Listening to Music and playing Games.</h3>
+<h3 align="center">I like programing , Listening Music and playing Games.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=axolotlextnd&label=Profile%20views&color=0e75b6&style=flat" alt="axolotlextnd" /> </p>
 
