@@ -7,6 +7,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=axolotlextnd&show_icons=true&theme=dracula&locale=en&layout=compact" alt="axolotlextnd" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=axolotlextnd&show_icons=true&locale=en" alt="axolotlextnd" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=axolotlextnd&show_icons=true&theme=dark&locale=en" alt="axolotlextnd" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=axolotlextnd&" alt="axolotlextnd" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=axolotlextnd&theme=dark" alt="axolotlextnd" /></p>
