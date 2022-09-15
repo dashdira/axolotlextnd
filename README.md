@@ -1,5 +1,3 @@
-![](https://i.ibb.co/FxqxTN7/alymew-alymew-wink.gif )
-
 <h1 align="center">Hi 👋, I'm Sandira</h1>
 <h3 align="center">I like programing , Listening Music and playing Games.</h3>
 
