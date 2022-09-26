@@ -1,5 +1,19 @@
-<h1 align="center">Hi 👋, I'm Sandira</h1>
-<h3 align="center">I like programing , Listening Music and playing Games.</h3>
+```c++
+#include <iostream>
+using namespace std;
+
+int main() {
+  cout << "My Name Is Sandira";
+  cout << "My Favorite Color Green";
+  cout << "Nationality Indonesian";
+  cout << "Is My Life";
+    cout << "Game";
+    cout << "Music";
+    cout << "Book";
+    cout << "helping parents";
+  return 0;
+}
+```
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=axolotlextnd&label=Profile%20views&color=0e75b6&style=flat" alt="axolotlextnd" /> </p>
 
