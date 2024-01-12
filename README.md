@@ -15,6 +15,6 @@ int main() {
 }
 ```
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=axolotlextnd&label=Profile%20views&color=0e75b6&style=flat" alt="axolotlextnd" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=dashdira&label=Profile%20views&color=0e75b6&style=flat" alt="dashdira" /> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=axolotlextnd&show_icons=true&theme=dracula&locale=en&layout=compact" alt="axolotlextnd" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dashdira&show_icons=true&theme=dracula&locale=en&layout=compact" alt="dashdira" /></p>
